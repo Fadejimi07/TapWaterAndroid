@@ -38,8 +38,3 @@ object RainWaterLogic {
         return result
     }
 }
-
-enum class CELL_TYPE {
-    BLACK,
-    BLUE
-}
